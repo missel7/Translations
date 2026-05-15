@@ -5,7 +5,7 @@
   "ToggleOn": "蓝图分享已<color=#00ff00>启用</color>。",
   "ToggleOff": "蓝图分享已<color=#ff0000>禁用</color>。",
   "NoPermission": "你没有权限使用此命令。",
-  "CannotShare": "你无法与此玩家分享蓝图，他们必须在你的队伍、家族或好友列表中。",
+  "CannotShare": "你无法与此玩家分享蓝图，他们必须在你的队伍、战队或好友列表中。",
   "NoTarget": "你必须指定一个玩家进行分享。",
   "TargetEqualsPlayer": "你不能与自己分享蓝图。",
   "PlayerNotFound": "未找到玩家。",
