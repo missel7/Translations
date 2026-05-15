@@ -15,8 +15,8 @@
   "NoHistory": "没有与此玩家的私信历史记录。",
   "CannotFindUser": "找不到此用户",
   "CommandDisabled": "该命令已被禁用",
-  "IsMuted": "你当前被静音，无法发送私信",
-  "TargetMuted": "此人被静音，无法接收你的私信",
+  "IsMuted": "你当前被禁言，无法发送私信",
+  "TargetMuted": "此人被禁言，无法接收你的私信",
   "NoPermission": "你没有执行此命令的权限",
   "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
   "Logging": "[PM]{0}->{1}:{2}"
